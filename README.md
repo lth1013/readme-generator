@@ -1,6 +1,6 @@
-# Test README
+# Test Title
   ## Description
-  This is a test of the README generator
+  test description
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -12,19 +12,19 @@
   
   ## Installation
 
-  Install this readme generator by downloading it from Github
+  test install instructions
 
   ## Usage
 
-  Use this by opening the terminal and entering whatever you want to generate a readme
+  test usage info
 
   ## Contributing
 
-  Just Luke Harriman who contributed,
+  test contribution guidelines
 
   ## Test
 
-  Test this by using node index.js in the terminal and answer the questions, then look at README.md
+  test instructions
 
   ## License
 
@@ -34,5 +34,5 @@
 
   ## Questions
   
-  lth1013
-  dkflasojkjklds@gmail.com
+  https://github.com/lth1013/
+  lukeharriman@icloud.com
