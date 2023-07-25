@@ -1,6 +1,6 @@
-# README Generator
+# Test README
   ## Description
-  This project will generate a README for the user through terminal inputs
+  This is a test of the README generator
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -12,19 +12,19 @@
   
   ## Installation
 
-  To install this project, download it off of github.
+  Install this readme generator by downloading it from Github
 
   ## Usage
 
-  To use this project, put node index.js in the terminal and answer the questions
+  Use this by opening the terminal and entering whatever you want to generate a readme
 
   ## Contributing
 
-  Luke Harriman contributed to this project, and I used Node JS Screencastify and JS 
+  Just Luke Harriman who contributed,
 
   ## Test
 
-  To test, fill in the questions it asks and then look at your readme after you init it with node index.js
+  Test this by using node index.js in the terminal and answer the questions, then look at README.md
 
   ## License
 
@@ -35,4 +35,4 @@
   ## Questions
   
   lth1013
-  lukeharriman@icloud.com
+  dkflasojkjklds@gmail.com
