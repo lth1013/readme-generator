@@ -1,6 +1,6 @@
-# s
+# README Generator
   ## Description
-  s
+  This project will generate a README for the user through terminal inputs
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -11,17 +11,28 @@
   * [Questions](#questions)
   
   ## Installation
-  s
+
+  To install this project, download it off of github.
+
   ## Usage
-  s
+
+  To use this project, put node index.js in the terminal and answer the questions
+
   ## Contributing
-  s
+
+  Luke Harriman contributed to this project, and I used Node JS Screencastify and JS 
+
   ## Test
-  s
+
+  To test, fill in the questions it asks and then look at your readme after you init it with node index.js
+
   ## License
+
   This project is licensed under the MIT license.
   https://img.shields.io/badge/license-MIT-blue.svg
   https://opensource.org/licenses/MIT
+
   ## Questions
-  s
-  s
+  
+  lth1013
+  lukeharriman@icloud.com

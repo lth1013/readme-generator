@@ -62,7 +62,7 @@ function writeToFile(fileName, data) {
     if (err) {
       return console.log(err);
     }
-    console.log("readme.md has been generated");
+    console.log("README.md has been generated.");
   });
 }
 

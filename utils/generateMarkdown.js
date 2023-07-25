@@ -73,18 +73,29 @@ function generateMarkdown(data) {
   * [Questions](#questions)
   
   ## Installation
+
   ${data.installation}
+
   ## Usage
+
   ${data.usage}
+
   ## Contributing
+
   ${data.contributing}
+
   ## Test
+
   ${data.test}
+
   ## License
+
   ${renderLicenseSection(data.license)}
   ${renderLicenseBadge(data.license)}
   ${renderLicenseLink(data.license)}
+
   ## Questions
+  
   ${data.github}
   ${data.email}
 `;
